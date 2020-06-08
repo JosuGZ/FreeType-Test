@@ -1,0 +1,9 @@
+# Windows: mklink .personalGitignore .git\info\exclude
+# Linux: ln -s .git/info/exclude .personalGitignore
+.personalGitignore
+
+# Visual Studio Code
+.vscode/
+
+# Build files
+build/
