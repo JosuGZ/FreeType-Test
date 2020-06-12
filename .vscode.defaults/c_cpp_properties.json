@@ -6,6 +6,7 @@
                 "${workspaceFolder}/**",
                 "/home/josu/.conan/data/freetype/2.10.1/_/_/package/3cdd93cd46fc07735d1b0d7f2860a82fac7a3053/include",
                 "/home/josu/.conan/data/freetype/2.10.1/_/_/package/3cdd93cd46fc07735d1b0d7f2860a82fac7a3053/include/freetype2",
+                "/home/josu/.conan/data/stb/20200203/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include",
                 "/home/josu/.conan/data/libpng/1.6.37/_/_/package/b781af3f476d0aa5070a0a35b544db7a3c193cc8/include",
                 "/home/josu/.conan/data/bzip2/1.0.8/_/_/package/b27e2b40bcb70be2e7d6f0e0c6e43e35c530f8d3/include",
                 "/home/josu/.conan/data/zlib/1.2.11/_/_/package/d50a0d523d98c15bb147b18fa7d203887c38be8b/include"
